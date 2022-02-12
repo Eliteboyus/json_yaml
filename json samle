@@ -1,0 +1,19 @@
+{
+  "vehicles": {
+    "car": {
+      "color": "blue",
+      "price": "$20,000"
+    },
+    "bus": {
+      "color": "white",
+      "price": "$120,000"
+    }
+  }
+}
+
+
+
+#query$.vehicles.car.price
+#output[
+  "$20,000"
+]
